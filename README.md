@@ -116,3 +116,8 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Deep learning for detecting robotic grasps** (2015), I. Lenz et al. [[pdf]](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
 - [ ] **Playing atari with deep reinforcement learning** (2013), V. Mnih et al. [[pdf]](http://arxiv.org/pdf/1312.5602.pdf))
 
+### Music
+- [ ] **A tutorial on deep learning for music information retrieval** (2018), K. Choi et al. [[pdf]] (https://arxiv.org/pdf/1709.04396.pdf )
+- [ ] **Singing style investigation by residual siamese convolutional neural networks** (2018), C. Wang et al. [[pdf]](https://ccrma.stanford.edu/damp/publications/icassp_2018_singing_style_Wang_Tzanetakis.pdf)
+- [ ] **Deep autotuner: a data-driven approach to natural-sounding pitch correction for singing voice in karaoke performances** (2019), S. Wager et al. [[pdf]] (https://arxiv.org/pdf/1902.00956.pdf)
+- [ ] **Exploting synchronized lyrics and vocal features for music emotion detection** (2019), L. Parisi et al. [[pdf]] (https://arxiv.org/pdf/1901.04831.pdf)
