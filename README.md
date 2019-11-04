@@ -123,3 +123,4 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Exploting synchronized lyrics and vocal features for music emotion detection** (2019), L. Parisi et al. [[pdf]](https://arxiv.org/pdf/1901.04831.pdf)
 - [x] **Timbre analysis of music audio signals with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](https://arxiv.org/pdf/1703.06697.pdf)
 - [ ] **Designing efficient architectures for modeling temporal features with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](http://jordipons.me/media/PonsSerraICASSP2017.pdf)
+- [ ] **Automatic tagging using deep convolutional neural networks** (2016), K. Choi et al. [[pdf]](https://arxiv.org/pdf/1606.00298.pdf)
