@@ -121,4 +121,5 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [x] **Singing style investigation by residual siamese convolutional neural networks** (2018), C. Wang et al. [[pdf]](https://ccrma.stanford.edu/damp/publications/icassp_2018_singing_style_Wang_Tzanetakis.pdf)
 - [x] **Deep autotuner: a data-driven approach to natural-sounding pitch correction for singing voice in karaoke performances** (2019), S. Wager et al. [[pdf]](https://arxiv.org/pdf/1902.00956.pdf)
 - [ ] **Exploting synchronized lyrics and vocal features for music emotion detection** (2019), L. Parisi et al. [[pdf]](https://arxiv.org/pdf/1901.04831.pdf)
-- [ ] **Timbre analysis of music audio signals with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](https://arxiv.org/pdf/1703.06697.pdf)
+- [x] **Timbre analysis of music audio signals with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](https://arxiv.org/pdf/1703.06697.pdf)
+- [ ] **Designing efficient architectures for modeling temporal features with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](http://jordipons.me/media/PonsSerraICASSP2017.pdf)
