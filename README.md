@@ -27,7 +27,6 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [x] **Generative adversarial nets** (2014), I. Goodfellow et al. [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - [ ] **Auto-encoding variational Bayes** (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
 - [ ] **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209)
-- [ ] **GANSynth: Adversarial Neural Audio Synthesis** (2019), J. Engel et al. [[pdf]](https://openreview.net/pdf?id=H1xQVn09FX)
 - [ ] **A Style-Based Generator Architecture for Generative Adversarial Networks** (2019), T. Karras et al. [[pdf]](https://arxiv.org/pdf/1812.04948.pdf)
 - [ ] **Progressive Growing of GANs for Improved Quality, Stability, and Variation** (2018), T. Karras et al. [[pdf]](https://arxiv.org/pdf/1710.10196.pdf)
 
@@ -128,3 +127,4 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Designing efficient architectures for modeling temporal features with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](http://jordipons.me/media/PonsSerraICASSP2017.pdf)
 - [ ] **Automatic tagging using deep convolutional neural networks** (2016), K. Choi et al. [[pdf]](https://arxiv.org/pdf/1606.00298.pdf)
 - [x] **EXPLORING DATA AUGMENTATION FOR IMPROVED SINGING VOICE DETECTION WITH NEURAL NETWORKSs** (2015), J. Schlüter et al. [[pdf]](http://www.ofai.at/~jan.schlueter/pubs/2015_ismir.pdf)
+- [ ] **GANSynth: Adversarial Neural Audio Synthesis** (2019), J. Engel et al. [[pdf]](https://openreview.net/pdf?id=H1xQVn09FX)
