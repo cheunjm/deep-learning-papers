@@ -27,6 +27,9 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Generative adversarial nets** (2014), I. Goodfellow et al. [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - [ ] **Auto-encoding variational Bayes** (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
 - [ ] **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209)
+- [ ] **GANSynth: Adversarial Neural Audio Synthesis** (2019), J. Engel et al. [[pdf]](https://openreview.net/pdf?id=H1xQVn09FX)
+- [ ] **A Style-Based Generator Architecture for Generative Adversarial Networks** (2018), T. Karras et al. [[pdf]](https://arxiv.org/pdf/1812.04948.pdf)
+- [ ] **Progressive Growing of GANs for Improved Quality, Stability, and Variation** (2018), T. Karras et al. [[pdf]](https://arxiv.org/pdf/1710.10196.pdf)
 
 ### Convolutional Neural Network Models
 - [ ] **Rethinking the inception architecture for computer vision** (2016), C. Szegedy et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
