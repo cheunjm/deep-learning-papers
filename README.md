@@ -128,3 +128,4 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Automatic tagging using deep convolutional neural networks** (2016), K. Choi et al. [[pdf]](https://arxiv.org/pdf/1606.00298.pdf)
 - [x] **EXPLORING DATA AUGMENTATION FOR IMPROVED SINGING VOICE DETECTION WITH NEURAL NETWORKSs** (2015), J. Schlüter et al. [[pdf]](http://www.ofai.at/~jan.schlueter/pubs/2015_ismir.pdf)
 - [ ] **GANSynth: Adversarial Neural Audio Synthesis** (2019), J. Engel et al. [[pdf]](https://openreview.net/pdf?id=H1xQVn09FX)
+- [ ] **WAVENET: A GENERATIVE MODEL FOR RAW AUDIO** (2016), A. Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf)
