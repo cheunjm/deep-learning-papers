@@ -31,6 +31,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209)
 - [ ] **A Style-Based Generator Architecture for Generative Adversarial Networks** (2019), T. Karras et al. [[pdf]](https://arxiv.org/pdf/1812.04948.pdf)
 - [ ] **Progressive Growing of GANs for Improved Quality, Stability, and Variation** (2018), T. Karras et al. [[pdf]](https://arxiv.org/pdf/1710.10196.pdf)
+- [ ] **Training Generative Reversible Networks** (2018), R.  Schirrmeister et al. [[pdf]](https://arxiv.org/pdf/1806.01610.pdf)
 
 ### Convolutional Neural Network Models
 - [ ] **Rethinking the inception architecture for computer vision** (2016), C. Szegedy et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
