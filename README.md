@@ -10,6 +10,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Visualizing and understanding convolutional networks** (2014), M. Zeiler and R. Fergus [[pdf]](http://arxiv.org/pdf/1311.2901)
 - [ ] **Decaf: A deep convolutional activation feature for generic visual recognition** (2014), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531)
 - [ ] **Wide & Deep Learning for Recommender Systems** (2016), H. Cheng et al. [[pdf]](https://arxiv.org/pdf/1606.07792.pdf)
+- [ ] **Deep Feature Selection: Theory and Application to Identify Enhancers and Promoters** (2015), Y. Li et al. [[pdf]](file:///Users/jace/Downloads/recomb15_yifengli.pdf)
   
 ### Optimization / Training Techniques
 - [x] **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
