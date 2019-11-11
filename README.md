@@ -136,3 +136,4 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **WAVENET: A GENERATIVE MODEL FOR RAW AUDIO** (2016), A. Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf)
 - [x] **HIT SONG PREDICTION:LEVERAGING LOW- AND HIGH-LEVEL AUDIO FEATURES** (2019), E. Zangerle et al. [[pdf]](http://archives.ismir.net/ismir2019/paper/000037.pdf)
 - [x] **SINGING EXPRESSION TRANSFER FROM ONE VOICE TO ANOTHER FOR A GIVEN SONG** (2018), S. Yong et al. [[pdf]](http://mac.kaist.ac.kr/pubs/YongNam-icassp2018.pdf)
+- [x] **Modeling of the Latent Embedding of Music using Deep Neural Network** (2017), Z. Xing et al. [[pdf]](https://arxiv.org/pdf/1705.05229.pdf)
