@@ -21,6 +21,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - [ ] **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
 - [x] **mixup: BEYOND EMPIRICAL RISK MINIMIZATION** (2018) H. Zhang et al. [[pdf]](https://arxiv.org/pdf/1710.09412.pdf)
+- [ ] **A COMPARISON OF FIVE MULTIPLE INSTANCE LEARNING POOLING FUNCTIONS FOR SOUND EVENT DETECTION WITH WEAK LABELING** (2019) Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1810.09050.pdf)
 
 ### Unsupervised / Generative Models
 - [ ] **Pixel recurrent neural networks** (2016), A. Oord et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
