@@ -111,6 +111,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups** (2012), G. Hinton et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf)
 - [ ] **Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition** (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf)
 - [ ] **Acoustic modeling using deep belief networks** (2012), A. Mohamed et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf)
+- [ ] **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis** (2019), Y. Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
 
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ)-->
 
