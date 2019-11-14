@@ -21,7 +21,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - [ ] **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
 - [x] **mixup: BEYOND EMPIRICAL RISK MINIMIZATION** (2018) H. Zhang et al. [[pdf]](https://arxiv.org/pdf/1710.09412.pdf)
-- [ ] **A COMPARISON OF FIVE MULTIPLE INSTANCE LEARNING POOLING FUNCTIONS FOR SOUND EVENT DETECTION WITH WEAK LABELING** (2019) Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1810.09050.pdf)
+- [x] **A COMPARISON OF FIVE MULTIPLE INSTANCE LEARNING POOLING FUNCTIONS FOR SOUND EVENT DETECTION WITH WEAK LABELING** (2019) Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1810.09050.pdf)
 
 ### Unsupervised / Generative Models
 - [ ] **Pixel recurrent neural networks** (2016), A. Oord et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
@@ -48,7 +48,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Maxout networks** (2013), I. Goodfellow et al. [[pdf]](http://arxiv.org/pdf/1302.4389v4)
 - [ ] **Network in network** (2013), M. Lin et al. [[pdf]](http://arxiv.org/pdf/1312.4400)
 - [ ] **ImageNet classification with deep convolutional neural networks** (2012), A. Krizhevsky et al. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- [ ] **Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids** (2018), Z. Zheng et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8233155)
+- [x] **Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids** (2018), Z. Zheng et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8233155)
 
 <!---[Key researchers]  [Christian Szegedy](https://scholar.google.ca/citations?hl=en&user=3QeF7mAAAAAJ), [Kaming He](https://scholar.google.ca/citations?hl=en&user=DhtAFkwAAAAJ), [Shaoqing Ren](https://scholar.google.ca/citations?hl=en&user=AUhj438AAAAJ), [Jian Sun](https://scholar.google.ca/citations?hl=en&user=ALVSZAYAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Yann LeCun](https://scholar.google.ca/citations?hl=en&user=WLN3QrAAAAAJ)-->
 
@@ -140,4 +140,4 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [x] **HIT SONG PREDICTION:LEVERAGING LOW- AND HIGH-LEVEL AUDIO FEATURES** (2019), E. Zangerle et al. [[pdf]](http://archives.ismir.net/ismir2019/paper/000037.pdf)
 - [x] **SINGING EXPRESSION TRANSFER FROM ONE VOICE TO ANOTHER FOR A GIVEN SONG** (2018), S. Yong et al. [[pdf]](http://mac.kaist.ac.kr/pubs/YongNam-icassp2018.pdf)
 - [ ] **Modeling of the Latent Embedding of Music using Deep Neural Network** (2017), Z. Xing et al. [[pdf]](https://arxiv.org/pdf/1705.05229.pdf)
-- [ ] **A COMPARISON OF FIVE MULTIPLE INSTANCE LEARNING POOLING FUNCTIONS FOR SOUND EVENT DETECTION WITH WEAK LABELING** (2019), Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1810.09050.pdf)
+- [x] **A COMPARISON OF FIVE MULTIPLE INSTANCE LEARNING POOLING FUNCTIONS FOR SOUND EVENT DETECTION WITH WEAK LABELING** (2019), Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1810.09050.pdf)
