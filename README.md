@@ -132,7 +132,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [x] **Deep autotuner: a data-driven approach to natural-sounding pitch correction for singing voice in karaoke performances** (2019), S. Wager et al. [[pdf]](https://arxiv.org/pdf/1902.00956.pdf)
 - [ ] **Exploting synchronized lyrics and vocal features for music emotion detection** (2019), L. Parisi et al. [[pdf]](https://arxiv.org/pdf/1901.04831.pdf)
 - [x] **Timbre analysis of music audio signals with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](https://arxiv.org/pdf/1703.06697.pdf)
-- [ ] **Designing efficient architectures for modeling temporal features with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](http://jordipons.me/media/PonsSerraICASSP2017.pdf)
+- [x] **Designing efficient architectures for modeling temporal features with convolutional neural networks** (2017), P. Jordi et al. [[pdf]](http://jordipons.me/media/PonsSerraICASSP2017.pdf)
 - [ ] **Automatic tagging using deep convolutional neural networks** (2016), K. Choi et al. [[pdf]](https://arxiv.org/pdf/1606.00298.pdf)
 - [x] **EXPLORING DATA AUGMENTATION FOR IMPROVED SINGING VOICE DETECTION WITH NEURAL NETWORKSs** (2015), J. Schlüter et al. [[pdf]](http://www.ofai.at/~jan.schlueter/pubs/2015_ismir.pdf)
 - [ ] **GANSynth: Adversarial Neural Audio Synthesis** (2019), J. Engel et al. [[pdf]](https://openreview.net/pdf?id=H1xQVn09FX)
