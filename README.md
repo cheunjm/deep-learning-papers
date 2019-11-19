@@ -144,3 +144,4 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [x] **Modeling of the Latent Embedding of Music using Deep Neural Network** (2017), Z. Xing et al. [[pdf]](https://arxiv.org/pdf/1705.05229.pdf)
 - [x] **A COMPARISON OF FIVE MULTIPLE INSTANCE LEARNING POOLING FUNCTIONS FOR SOUND EVENT DETECTION WITH WEAK LABELING** (2019), Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1810.09050.pdf)
 - [x] **AUTOMATIC SINGING EVALUATION WITHOUT REFERENCE MELODY USING BI-DENSE NEURAL NETWORK** (2019), N. Zhang et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682665)
+- [ ] **Automatic Evaluation of Singing Quality without a Reference** (2018), C. Gupta et al. [[pdf]](https://chitralekha18.github.io/chitralekha/papers/APSIPA2018automatic-evaluation-singing.pdf)
