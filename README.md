@@ -147,3 +147,5 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [x] **AUTOMATIC SINGING EVALUATION WITHOUT REFERENCE MELODY USING BI-DENSE NEURAL NETWORK** (2019), N. Zhang et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682665)
 - [ ] **Automatic Evaluation of Singing Quality without a Reference** (2018), C. Gupta et al. [[pdf]](https://chitralekha18.github.io/chitralekha/papers/APSIPA2018automatic-evaluation-singing.pdf)
 - [ ] **GENERATIVE TIMBRE SPACES: REGULARIZING VARIATIONAL AUTO-ENCODERS WITH PERCEPTUAL METRICS** (2018), P. Esling et al. [[pdf]](https://arxiv.org/pdf/1805.08501.pdf)
+- [ ] **MODULATED VARIATIONAL AUTO-ENCODERS FOR MANY-TO-MANY MUSICAL TIMBRE TRANSFER** (2018), A. Bitton et al. [[pdf]](https://arxiv.org/pdf/1810.00222.pdf)
+- [ ] **LEARNING DISENTANGLED REPRESENTATIONS OF TIMBRE AND PITCH FOR MUSICAL INSTRUMENT SOUNDS USING GAUSSIAN MIXTURE VARIATIONAL AUTOENCODERS** (2019), Y. Luo et al. [[pdf]](http://archives.ismir.net/ismir2019/paper/000091.pdf)
