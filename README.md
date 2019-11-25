@@ -150,3 +150,4 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **MODULATED VARIATIONAL AUTO-ENCODERS FOR MANY-TO-MANY MUSICAL TIMBRE TRANSFER** (2018), A. Bitton et al. [[pdf]](https://arxiv.org/pdf/1810.00222.pdf)
 - [ ] **LEARNING DISENTANGLED REPRESENTATIONS OF TIMBRE AND PITCH FOR MUSICAL INSTRUMENT SOUNDS USING GAUSSIAN MIXTURE VARIATIONAL AUTOENCODERS** (2019), Y. Luo et al. [[pdf]](http://archives.ismir.net/ismir2019/paper/000091.pdf)
 - [x] **DISENTANGLING TIMBRE AND SINGING STYLE WITH MULTI-SINGER SINGING SYNTHESIS SYSTEM** (2019), J. Lee et al. [[pdf]](https://arxiv.org/pdf/1910.13069.pdf)
+- [ ] **Adversarially Trained End-to-end Korean Singing Voice Synthesis System** (2019), J. Lee et al. [[pdf]](https://arxiv.org/pdf/1908.01919.pdf)
