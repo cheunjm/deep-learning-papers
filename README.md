@@ -115,6 +115,9 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition** (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf)
 - [ ] **Acoustic modeling using deep belief networks** (2012), A. Mohamed et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf)
 - [ ] **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis** (2019), Y. Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
+- [ ] **Deep features-based speech emotion recognition for smart affective services** (2016), A. Badshah et al. [[pdf]](https://khan-muhammad.github.io/public/papers/Malik_MTAP_SER.pdf)
+- [ ] **Speech Emotion Recognition using Convolutional and Recurrent Neural Networks** (2016), W. Lim et al. [[pdf]](http://www.apsipa.org/proceedings_2016/HTML/paper2016/137.pdf)
+
 
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ)-->
 
