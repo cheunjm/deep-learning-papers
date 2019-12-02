@@ -152,3 +152,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [x] **DISENTANGLING TIMBRE AND SINGING STYLE WITH MULTI-SINGER SINGING SYNTHESIS SYSTEM** (2019), J. Lee et al. [[pdf]](https://arxiv.org/pdf/1910.13069.pdf)
 - [x] **Adversarially Trained End-to-end Korean Singing Voice Synthesis System** (2019), J. Lee et al. [[pdf]](https://arxiv.org/pdf/1908.01919.pdf)
 - [ ] **WGANSing: A Multi-Voice Singing Voice Synthesizer Based on the Wasserstein-GAN** (2019), P. Chandna et al. [[pdf]](https://arxiv.org/pdf/1903.10729.pdf)
+- [ ] **Efficient karaoke song recommendation via multiple kernel learning approximation** (2016), C. Guan et al. [[pdf]](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2017/Chu-Guan-Neurocomputing.pdf)
+- [ ] **Vocal Competence Based Karaoke Recommendation: A Maximum-Margin Joint Model** (2016), C. Guan et al. [[pdf]](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Chu-Guan-SDM.pdf)
+- [ ] **Deep Karaoke: Extracting Vocals from Musical Mixtures Using a Convolutional Deep Neural Network** (2015), A. Simpson et al. [[pdf]](https://arxiv.org/pdf/1504.04658.pdf)
+
