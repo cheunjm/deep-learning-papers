@@ -117,8 +117,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis** (2019), Y. Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
 - [ ] **Deep features-based speech emotion recognition for smart affective services** (2016), A. Badshah et al. [[pdf]](https://khan-muhammad.github.io/public/papers/Malik_MTAP_SER.pdf)
 - [ ] **Speech Emotion Recognition using Convolutional and Recurrent Neural Networks** (2016), W. Lim et al. [[pdf]](http://www.apsipa.org/proceedings_2016/HTML/paper2016/137.pdf)
-- [ ] **Discriminating Emotions in the Valence Dimension from Speech Using Timbre Features** (2019), A. Tursunov et al. [[pdf]]
-(https://www.researchgate.net/publication/333837970_Discriminating_Emotions_in_the_Valence_Dimension_from_Speech_Using_Timbre_Features)
+- [ ] **Discriminating Emotions in the Valence Dimension from Speech Using Timbre Features** (2019), A. Tursunov et al. [[pdf]](https://www.researchgate.net/publication/333837970_Discriminating_Emotions_in_the_Valence_Dimension_from_Speech_Using_Timbre_Features)
 
 
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ)-->
