@@ -163,4 +163,5 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Vocal Competence Based Karaoke Recommendation: A Maximum-Margin Joint Model** (2016), C. Guan et al. [[pdf]](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Chu-Guan-SDM.pdf)
 - [ ] **Deep Karaoke: Extracting Vocals from Musical Mixtures Using a Convolutional Deep Neural Network** (2015), A. Simpson et al. [[pdf]](https://arxiv.org/pdf/1504.04658.pdf)
 - [ ] **EMPIRICALLY WEIGHING THE IMPORTANCE OF DECISION FACTORS WHEN SELECTING MUSIC TO SING** (2018), K. Ibrahim et al. [[pdf]](https://www.researchgate.net/profile/Karim_Ibrahim11/publication/328335079_Empirically_weighing_the_importance_of_decision_factors_when_selecting_music_to_sing/links/5bc70777a6fdcc03c789944a/Empirically-weighing-the-importance-of-decision-factors-when-selecting-music-to-sing.pdf)
+- [ ] **Perceptual Evaluation of Singing Quality** (2017), C. Gupta et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8282110)
 
