@@ -166,4 +166,5 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Perceptual Evaluation of Singing Quality** (2017), C. Gupta et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8282110)
 - [ ] **Heterogeneous Collaborative Filtering** (2019), Y. Liu et al. [[pdf]](https://arxiv.org/pdf/1909.01727.pdf)
 - [ ] **LEARNING A JOINT EMBEDDING SPACE OF MONOPHONIC AND MIXED MUSIC SIGNALS FOR SINGING VOICE** (2019), K. Lee et al. [[pdf]](https://arxiv.org/pdf/1906.11139.pdf)
+- [ ] **VOCAL TIMBRE ANALYSIS USING LATENT DIRICHLET ALLOCATION AND CROSS-GENDER VOCAL TIMBRE SIMILARITYE** (2014), T. Nakano et al. [[pdf]](https://staff.aist.go.jp/m.goto/PAPER/ICASSP2014nakano.pdf)
 
