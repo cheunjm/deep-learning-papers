@@ -117,7 +117,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis** (2019), Y. Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
 - [ ] **Deep features-based speech emotion recognition for smart affective services** (2016), A. Badshah et al. [[pdf]](https://khan-muhammad.github.io/public/papers/Malik_MTAP_SER.pdf)
 - [ ] **Speech Emotion Recognition using Convolutional and Recurrent Neural Networks** (2016), W. Lim et al. [[pdf]](http://www.apsipa.org/proceedings_2016/HTML/paper2016/137.pdf)
-- [ ] **Discriminating Emotions in the Valence Dimension from Speech Using Timbre Features** (2019), A. Tursunov et al. [[pdf]](https://www.researchgate.net/publication/333837970_Discriminating_Emotions_in_the_Valence_Dimension_from_Speech_Using_Timbre_Features)
+- [x] **Discriminating Emotions in the Valence Dimension from Speech Using Timbre Features** (2019), A. Tursunov et al. [[pdf]](https://www.researchgate.net/publication/333837970_Discriminating_Emotions_in_the_Valence_Dimension_from_Speech_Using_Timbre_Features)
 - [ ] **Deep Learning based Emotion Recognition System Using Speech Features and Transcriptions** (2019), S. Tripathi et al. [[pdf]](https://arxiv.org/pdf/1906.05681.pdf)
 - [ ] **Speech Emotion Recognition using Deep Learning** (2018), N. Roopa et al. [[pdf]](https://www.ijrte.org/wp-content/uploads/papers/v7i4s/E1917017519.pdf)
 - [ ] **Speech Emotion Recognition Using Deep Learning Techniques: A Review** (2019), R. Khalil et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805181)
