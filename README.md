@@ -167,5 +167,4 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Heterogeneous Collaborative Filtering** (2019), Y. Liu et al. [[pdf]](https://arxiv.org/pdf/1909.01727.pdf)
 - [ ] **LEARNING A JOINT EMBEDDING SPACE OF MONOPHONIC AND MIXED MUSIC SIGNALS FOR SINGING VOICE** (2019), K. Lee et al. [[pdf]](https://arxiv.org/pdf/1906.11139.pdf)
 - [ ] **VOCAL TIMBRE ANALYSIS USING LATENT DIRICHLET ALLOCATION AND CROSS-GENDER VOCAL TIMBRE SIMILARITYE** (2014), T. Nakano et al. [[pdf]](https://staff.aist.go.jp/m.goto/PAPER/ICASSP2014nakano.pdf)
-- [ ] **LEARNING DISENTANGLED REPRESENTATIONS OF TIMBRE AND PITCH FOR MUSICAL INSTRUMENT SOUNDS USING GAUSSIAN MIXTURE VARIATIONAL AUTOENCODERS** (2019), Y. Luo et al. [[pdf]](http://archives.ismir.net/ismir2019/paper/000091.pdf)
 
