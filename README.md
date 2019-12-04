@@ -165,8 +165,9 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **EMPIRICALLY WEIGHING THE IMPORTANCE OF DECISION FACTORS WHEN SELECTING MUSIC TO SING** (2018), K. Ibrahim et al. [[pdf]](https://www.researchgate.net/profile/Karim_Ibrahim11/publication/328335079_Empirically_weighing_the_importance_of_decision_factors_when_selecting_music_to_sing/links/5bc70777a6fdcc03c789944a/Empirically-weighing-the-importance-of-decision-factors-when-selecting-music-to-sing.pdf)
 - [ ] **Perceptual Evaluation of Singing Quality** (2017), C. Gupta et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8282110)
 - [ ] **Heterogeneous Collaborative Filtering** (2019), Y. Liu et al. [[pdf]](https://arxiv.org/pdf/1909.01727.pdf)
-- [ ] **LEARNING A JOINT EMBEDDING SPACE OF MONOPHONIC AND MIXED MUSIC SIGNALS FOR SINGING VOICE** (2019), K. Lee et al. [[pdf]](https://arxiv.org/pdf/1906.11139.pdf)
+- [x] **LEARNING A JOINT EMBEDDING SPACE OF MONOPHONIC AND MIXED MUSIC SIGNALS FOR SINGING VOICE** (2019), K. Lee et al. [[pdf]](https://arxiv.org/pdf/1906.11139.pdf)
 - [ ] **VOCAL TIMBRE ANALYSIS USING LATENT DIRICHLET ALLOCATION AND CROSS-GENDER VOCAL TIMBRE SIMILARITY** (2014), T. Nakano et al. [[pdf]](https://staff.aist.go.jp/m.goto/PAPER/ICASSP2014nakano.pdf)
 - [ ] **REPRESENTATION LEARNING OF MUSIC USING ARTIST LABELS** (2018), J. Park et al. [[pdf]](http://ismir2018.ircam.fr/doc/pdfs/168_Paper.pdf)
 - [ ] **REVISITING SINGING VOICE DETECTION: A QUANTITATIVE REVIEW AND THE FUTURE OUTLOOK** (2018), K. Lee et al. [[pdf]](https://arxiv.org/pdf/1806.01180.pdf)
+- [ ] **Deep Content-User Embedding Model for Music Recommendation** (2018), J. Lee et al. [[pdf]](https://arxiv.org/pdf/1807.06786.pdf)
 
