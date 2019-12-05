@@ -170,5 +170,5 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **VOCAL TIMBRE ANALYSIS USING LATENT DIRICHLET ALLOCATION AND CROSS-GENDER VOCAL TIMBRE SIMILARITY** (2014), T. Nakano et al. [[pdf]](https://staff.aist.go.jp/m.goto/PAPER/ICASSP2014nakano.pdf)
 - [ ] **REPRESENTATION LEARNING OF MUSIC USING ARTIST LABELS** (2018), J. Park et al. [[pdf]](http://ismir2018.ircam.fr/doc/pdfs/168_Paper.pdf)
 - [ ] **REVISITING SINGING VOICE DETECTION: A QUANTITATIVE REVIEW AND THE FUTURE OUTLOOK** (2018), K. Lee et al. [[pdf]](https://arxiv.org/pdf/1806.01180.pdf)
-- [ ] **Deep Content-User Embedding Model for Music Recommendation** (2018), J. Lee et al. [[pdf]](https://arxiv.org/pdf/1807.06786.pdf)
+- [x] **Deep Content-User Embedding Model for Music Recommendation** (2018), J. Lee et al. [[pdf]](https://arxiv.org/pdf/1807.06786.pdf)
 
