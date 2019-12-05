@@ -78,6 +78,7 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **Large-scale video classification with convolutional neural networks** (2014), A. Karpathy et al. [[pdf]](http://vision.stanford.edu/pdf/karpathy14.pdf)
 - [ ] **Two-stream convolutional networks for action recognition in videos** (2014), K. Simonyan et al. [[pdf]](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
 - [ ] **3D convolutional neural networks for human action recognition** (2013), S. Ji et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf)
+- [ ] **Quadruplet Network with One-Shot Learning for Fast Visual Object Tracking** (2019), X. Dong et al. [[pdf]](https://arxiv.org/pdf/1705.07222.pdf)
 
 <!---[Key researchers]  [Oriol Vinyals](https://scholar.google.ca/citations?user=NkzyCvUAAAAJ), [Andrej Karpathy](https://scholar.google.ca/citations?user=l8WuQJgAAAAJ)-->
 
