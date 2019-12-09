@@ -106,8 +106,6 @@ My own curated list of deep learning papers, inspired by [Deep Learning Papers R
 - [ ] **WaveGlow: a Flow-based Generative Network for Speech Synthesis** (2013), R. Prenger et al. [[pdf]](https://arxiv.org/pdf/1811.00002.pdf)
 - [ ] **ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs** (2018), W. Yin et al. [[pdf]](https://arxiv.org/pdf/1512.05193.pdf)
 
-<!---[Key researchers]  [Kyunghyun Cho](https://scholar.google.ca/citations?user=0RAmmIAAAAAJ), [Oriol Vinyals](https://scholar.google.ca/citations?user=NkzyCvUAAAAJ), [Richard Socher](https://scholar.google.ca/citations?hl=en&user=FaOcyfMAAAAJ), [Tomas Mikolov](https://scholar.google.ca/citations?user=oBu8kMMAAAAJ), [Christopher D. Manning](https://scholar.google.ca/citations?user=1zmDOdwAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ)-->
-
 ### Speech / Other Domain
 - [ ] **End-to-end attention-based large vocabulary speech recognition** (2016), D. Bahdanau et al. [[pdf]](https://arxiv.org/pdf/1508.04395)
 - [ ] **Deep speech 2: End-to-end speech recognition in English and Mandarin** (2015), D. Amodei et al. [[pdf]](https://arxiv.org/pdf/1512.02595)
